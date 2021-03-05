@@ -1,0 +1,3 @@
+steps:
+  - label: "Example Test Mpi4jax"
+    command: echo "Hello! I'm Mpi4jax test scripty"
